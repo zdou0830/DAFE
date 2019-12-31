@@ -12,7 +12,7 @@ Code for
     }
 
 
-The code is based on UnsupervisedMT (https://github.com/facebookresearch/UnsupervisedMT). Please also cite their papers if you found the resources n this repository useful.
+The code is based on UnsupervisedMT (https://github.com/facebookresearch/UnsupervisedMT). Please also cite their papers if you found the resources in this repository useful.
 
     @inproceedings{lample2018phrase,
       title={Phrase-Based \& Neural Unsupervised Machine Translation},
